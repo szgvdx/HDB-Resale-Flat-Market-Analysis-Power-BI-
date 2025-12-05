@@ -10,7 +10,7 @@ This dashboard was designed to answer:
 
 1. How have HDB resale prices changed year over year?
 2. Which flat types are most frequently sold and which are most expensive?
-3. How do resale prices vary by location (town)?
+3. How do resale prices vary by location?
 4. Does remaining lease impact resale price?
 5. Are there seasonal trends in monthly transaction volumes or pricing?
 6. How does floor size affect pricing patterns?
@@ -18,17 +18,17 @@ This dashboard was designed to answer:
 
 
 ## Preview
-<img width="1144" height="725" alt="image" src="https://github.com/user-attachments/assets/e7796d75-fde0-4e3e-9478-14ad8023376d" />
-<img width="1153" height="730" alt="image" src="https://github.com/user-attachments/assets/a80ed348-11a2-47c7-9f68-a01e958391f4" />
+<img width="1136" height="722" alt="image" src="https://github.com/user-attachments/assets/45c5a878-fcc2-4fef-afd4-57052db7d624" />
+
+<img width="1149" height="722" alt="image" src="https://github.com/user-attachments/assets/6c46b4cb-efa8-45f3-a858-57aec495eda2" />
 
 
-
-## 🧠 Key Metrics Summary
+## Key Metrics Summary
 
 | Metric | Value |
 |--------|-------|
+|  **Total Transactions** | ~92,000 |
 | **Average Resale Price** | ~$415K |
-| **Total Transactions** | ~92,000 |
 | **Average Remaining Lease** | ~74 years |
 | **Average Property Size** | ~97.77 sqm |
 
@@ -66,12 +66,18 @@ Meanwhile, total transactions begin at around 8.2K in January and decrease consi
 
 ### **4️ Geographic Price Variation**
 
-<img width="601" height="283" alt="image" src="https://github.com/user-attachments/assets/cfcb536a-0b0f-484c-ac13-e378a8d1d1e0" />
-
-- The map visualization shows towns closer to the central region and transportation hubs tend to have **higher resale values**.
-- Location remains a strong price driver independent of flat type or size.
+<img width="392" height="601" alt="image" src="https://github.com/user-attachments/assets/893c23b7-c954-4f3d-8c5a-339d6202df0e" />
 
 
+The average resale price shows clear regional pricing patterns. Central and mature estates such as Bukit Timah (0.72M), Bishan (0.62M), Queenstown (0.59M), and Bukit Merah (0.58M) record the highest average resale values. These areas benefit from strong accessibility, established infrastructure, and proximity to key employment hubs.
+
+Mid-tier pricing is seen in towns like Pasir Ris, Serangoon, Tampines, and Clementi, reflecting a balance between accessibility and affordability.
+
+Meanwhile, towns farther from the city center such as Woodlands, Yishun, Choa Chu Kang, and Ang Mo Kio fall into the lower price range (0.35M–0.42M), likely influenced by location, supply volume, and distance from central transport corridors.
+
+This pattern reinforces that location, accessibility, and urban maturity remain dominant pricing drivers in Singapore’s resale housing market.
+
+(Users can hover over each bubble in the visualization to view the exact average resale price for each town)
 
 ### **5️ Remaining Lease vs Price**
 
