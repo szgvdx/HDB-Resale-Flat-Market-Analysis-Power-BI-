@@ -1,6 +1,6 @@
 # HDB Resale Flat Market Analysis (Power BI Dashboard)
 
-This project analyzes Singapore's HDB resale market using publicly available transaction data.
+This project analyzes Singapore's HDB resale market using publicly available transaction data on Kaggle.
 The goal is to uncover trends in resale pricing, transaction volume, buyer behavior, and the relationship between key housing attributes such as flat type, size, town, model, and remaining lease.
 
 
