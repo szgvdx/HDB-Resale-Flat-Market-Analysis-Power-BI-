@@ -17,13 +17,12 @@ This dashboard was designed to answer:
 7. Which flat models are most in-demand and which have the highest resale value?
 
 
-## Preview
-<img width="1136" height="722" alt="image" src="https://github.com/user-attachments/assets/45c5a878-fcc2-4fef-afd4-57052db7d624" />
-
-<img width="1149" height="722" alt="image" src="https://github.com/user-attachments/assets/6c46b4cb-efa8-45f3-a858-57aec495eda2" />
 
 
 ## Key Metrics Summary
+
+<img width="798" height="116" alt="image" src="https://github.com/user-attachments/assets/58751603-8770-46e1-86e2-847c00a4f0ca" />
+
 
 | Metric | Value |
 |--------|-------|
@@ -33,6 +32,8 @@ This dashboard was designed to answer:
 | **Average Property Size** | ~97.77 sqm |
 
 
+
+
 ### **1️ Yearly Price Trend (2017–2021)**
 
 <img width="436" height="262" alt="image" src="https://github.com/user-attachments/assets/ed17efb0-5d3d-4dcb-ba4a-98ca7b50299e" />
@@ -40,6 +41,9 @@ This dashboard was designed to answer:
 - Resale prices **declined** from **2017 to 2019** (from ~$444K → ~$432K).
 - Starting **2020**, prices began to **increase significantly**, reaching the **highest level in 2021 (~$490K)**.
 - This shift likely reflects a tightening housing supply, changes in buyer demand, and pandemic-related behavior where buyers preferred ready-to-move-in flats over waiting for BTO construction.
+
+
+
 
 
 ### **2️ Monthly Seasonality**
@@ -54,6 +58,8 @@ Meanwhile, total transactions begin at around 8.2K in January and decrease consi
 
 
 
+
+
 ### **3️ Flat Type Distribution**
 
 <img width="955" height="230" alt="image" src="https://github.com/user-attachments/assets/74eb9ade-8691-4954-968f-87389394d9b6" />
@@ -61,6 +67,8 @@ Meanwhile, total transactions begin at around 8.2K in January and decrease consi
 - **4-room flats dominate the resale market (~41% of transactions)**, indicating this size best fits the needs and affordability range of majority buyers.
 - **Executive and multi-generation units** show **higher average resale prices**, driven by their significantly larger size and scarcity.
 - **1-room and 2-room flats** record lower transaction counts and lower price ranges, consistent with subsidized or elderly-focused flat supply.
+
+
 
 
 
@@ -79,6 +87,10 @@ This pattern reinforces that location, accessibility, and urban maturity remain 
 
 (Users can hover over each bubble in the visualization to view the exact average resale price for each town)
 
+
+
+
+
 ### **5️ Remaining Lease vs Price**
 
 <img width="487" height="278" alt="image" src="https://github.com/user-attachments/assets/8e3ec682-1cbb-4ec4-b30f-bacea17721e1" />
@@ -88,6 +100,10 @@ This pattern reinforces that location, accessibility, and urban maturity remain 
   - Financing restrictions,
   - Depreciation perception,
   - Limited long-term usage of older leasehold flats.
+ 
+
+
+
 
 ### **6️ Floor Area and Price**
 
@@ -96,9 +112,22 @@ This pattern reinforces that location, accessibility, and urban maturity remain 
 - Larger units typically have higher prices, but the relationship is **not perfectly linear**.
 - This implies that **location, model type, and lease duration** influence value beyond just size.
 
+
 ### **7️ Flat Model Distribution**
 - Flat models such as **Type S, Premium Apartment Loft, and Maisonette** achieve the highest average prices (one above **$1M**).
 - Meanwhile, Model A shows the highest number of resale transactions, indicating strong demand and wide availability in the market. Improved flats also appear frequently, though not as high as Model A, suggesting they remain a popular mid-range choice. Other models have significantly fewer transactions, likely due to limited supply, niche layouts, or smaller buyer segments.
+
+
+
+
+
+## Preview
+
+<img width="1136" height="722" alt="image" src="https://github.com/user-attachments/assets/45c5a878-fcc2-4fef-afd4-57052db7d624" />
+
+<img width="1149" height="722" alt="image" src="https://github.com/user-attachments/assets/6c46b4cb-efa8-45f3-a858-57aec495eda2" />
+
+
 
 
 ## Tools & Techniques
