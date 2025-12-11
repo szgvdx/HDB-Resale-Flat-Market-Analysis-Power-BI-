@@ -21,7 +21,8 @@ This dashboard was designed to answer:
 
 ## Key Metrics Summary
 
-<img width="798" height="116" alt="image" src="https://github.com/user-attachments/assets/58751603-8770-46e1-86e2-847c00a4f0ca" />
+<img width="999" height="112" alt="image" src="https://github.com/user-attachments/assets/4b63b396-2f7b-43ae-b93e-416c8e673812" />
+
 
 
 | Metric | Value |
