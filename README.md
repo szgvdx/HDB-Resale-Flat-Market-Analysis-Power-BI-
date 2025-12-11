@@ -63,7 +63,8 @@ Meanwhile, total transactions begin at around 8.2K in January and decrease consi
 
 ### **3️ Flat Type Distribution**
 
-<img width="955" height="230" alt="image" src="https://github.com/user-attachments/assets/74eb9ade-8691-4954-968f-87389394d9b6" />
+<img width="1004" height="239" alt="image" src="https://github.com/user-attachments/assets/70fa9e09-7bce-4881-b604-96a0b8fd6c66" />
+
 
 - **4-room flats dominate the resale market (~41% of transactions)**, indicating this size best fits the needs and affordability range of majority buyers.
 - **Executive and multi-generation units** show **higher average resale prices**, driven by their significantly larger size and scarcity.
@@ -122,9 +123,11 @@ This pattern reinforces that location, accessibility, and urban maturity remain 
 
 
 
-## Preview
+## Preview (Page 1)
 
 <img width="1136" height="722" alt="image" src="https://github.com/user-attachments/assets/45c5a878-fcc2-4fef-afd4-57052db7d624" />
+
+## Preview (Page 2)
 
 <img width="1149" height="722" alt="image" src="https://github.com/user-attachments/assets/6c46b4cb-efa8-45f3-a858-57aec495eda2" />
 
